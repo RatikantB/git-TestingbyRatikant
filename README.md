@@ -1,2 +1,2 @@
 # git-TestingbyRatikant
-testing by ratikant
+testing by ratikant for learning
